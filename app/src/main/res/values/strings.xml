@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="accessibility_description">打开微信通知栏之后该功能才能正常使用</string>
+    <string name="accessibility_service">微信红包助手</string>
+</resources>
